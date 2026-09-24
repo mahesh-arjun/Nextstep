@@ -1,0 +1,7 @@
+{
+  "name": "IncidentPulse - Real-Time Incident Detection Engine",
+  "description": "Real-time stream processing, statistical anomaly detection, cascading failure correlation, and AI-assisted root cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
